@@ -2,7 +2,7 @@ import React from 'react';
 import { FiGithub, FiTrash2 } from 'react-icons/fi'
 
 import './styles.css';
-
+// TODO Fazer integraçao e adicionar tarefa
 function Index() {
   return (
     <>
