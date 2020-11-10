@@ -6,10 +6,6 @@ Ciência da Computação - UEMS
 
 > Esse repositório foi feito para organizar nossas atividades durante a pandemia que está acontecendo, para centralizarmos todo o conteudo que temos em relação as atividades e provas que fazemos.
 
-
-> ## Back-end: [Vinicius Silva Balbino](https://github.com/vinibalbino/)
-> ## Front-end: [Vinicius Silva Balbino](https://github.com/vinibalbino/)
-
 Para fazer requisições na API do backend utilize o link : https://compapinodejs.herokuapp.com/
 
 A API é simples, apresenta a seguintes rotas caso queira utilizar 
