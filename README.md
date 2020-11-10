@@ -8,7 +8,7 @@ Ciência da Computação - UEMS
 
 
 > ## Back-end: [Vinicius Silva Balbino](https://github.com/vinibalbino/)
-> ## Front-end: Em desenvolvimento 🚀⚡️🚀🔥
+> ## Front-end: [Vinicius Silva Balbino](https://github.com/vinibalbino/)
 
 Para fazer requisições na API do backend utilize o link : https://compapinodejs.herokuapp.com/
 
